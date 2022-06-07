@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 -->
 - Currently working for CoinDesk as a Senior FrontEnd Developer.
 - Building various side projects and learning golang in my spare time.
+- 
 ![dancing-gopher](https://user-images.githubusercontent.com/36081268/172436252-423ecadc-4b11-47cc-85cb-00caf01effb8.gif)
