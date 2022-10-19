@@ -11,8 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 - Currently working for [CoinDesk](https://www.coindesk.com/) as a Senior Frontend Developer.
 - Building various side projects and learning golang in my spare time.
 
 ![dancing-gopher](https://user-images.githubusercontent.com/36081268/172436252-423ecadc-4b11-47cc-85cb-00caf01effb8.gif)
+-->
